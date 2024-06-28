@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "summary": "An epic fantasy trilogy about the quest to destroy the One Ring and the battle against the Dark Lord Sauron."
+  }, 
+  {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "summary": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism."
+  },
+  {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publisher": "T. Egerton",
+      "summary": "A romantic novel that charts the emotional development of the protagonist, Elizabeth Bennet."
+  },
+  {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "summary": "A novel about the American dream and the roaring twenties, centered on the mysterious Jay Gatsby."
+  },
+  {
+      "id": 5,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publisher": "Harper & Brothers",
+      "summary": "An epic tale of the voyage of the whaling ship Pequod and its captain, Ahab, who is obsessed with revenge on Moby Dick."
+  },
+  {
+      "id": 6,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publisher": "The Russian Messenger",
+      "summary": "A historical novel that chronicles the French invasion of Russia and the impact of the Napoleonic era."
+  },
+  {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publisher": "Little, Brown and Company",
+      "summary": "A story about teenage angst and alienation as experienced by the protagonist, Holden Caulfield."
+  },
+  {
+      "id": 8,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "summary": "A fantasy novel that follows the quest of Bilbo Baggins to win a share of the treasure guarded by the dragon, Smaug."
+  },
+  {
+      "id": 9,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "publisher": "Bloomsbury",
+      "summary": "The first book in the Harry Potter series, which introduces us to the young wizard Harry and his adventures at Hogwarts."
+  }
+]

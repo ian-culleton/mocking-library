@@ -1,0 +1,28 @@
+.request-status {
+  padding: 1em;
+  border: 1px solid black;
+  width: 50%;
+}
+
+.request-status.pending {
+  background-color: palegoldenrod;
+}
+
+.request-status.failed {
+  background-color: salmon;
+}
+
+.request-status.success {
+  background-color: palegreen;
+}
+
+.request-status-output {
+  background-color: rgba(220, 220, 220, 0.7);
+  border: 1px solid black;
+  padding-left: 1em;
+}
+
+.request-status-output p {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}

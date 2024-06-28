@@ -1,0 +1,47 @@
+[
+  {
+      "id": 1,
+      "name": "J.B. Lippincott & Co.",
+      "location": "Philadelphia, Pennsylvania, USA"
+  },
+  {
+      "id": 2,
+      "name": "Secker & Warburg",
+      "location": "London, United Kingdom"
+  },
+  {
+      "id": 3,
+      "name": "T. Egerton",
+      "location": "London, United Kingdom"
+  },
+  {
+      "id": 4,
+      "name": "Charles Scribner's Sons",
+      "location": "New York City, New York, USA"
+  },
+  {
+      "id": 5,
+      "name": "Harper & Brothers",
+      "location": "New York City, New York, USA"
+  },
+  {
+      "id": 6,
+      "name": "The Russian Messenger",
+      "location": "Moscow, Russia"
+  },
+  {
+      "id": 7,
+      "name": "Little, Brown and Company",
+      "location": "New York City, New York, USA"
+  },
+  {
+      "id": 8,
+      "name": "George Allen & Unwin",
+      "location": "London, United Kingdom"
+  },
+  {
+      "id": 9,
+      "name": "Bloomsbury",
+      "location": "London, United Kingdom"
+  }
+]
