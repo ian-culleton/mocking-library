@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hidden {
+  display: none;
+}
+
+.tile {
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.tile-container {
+  display: flex;
+  flex-flow: row wrap;
+  background-color: gainsboro;
+  justify-content: center;
+  margin: 2em;
+}
