@@ -1,10 +1,11 @@
-import { beforeAll, afterAll, afterEach, describe, expect, it } from 'vitest';
+import {describe, expect, it } from 'vitest';
+
+import { getAllBooks } from './books'
 
 describe('books data service', () => {
 
   it('Should fetch all books', async () => {
-    let allBooks = await fetch('/books');
-    allBooks = await allBooks.json();
+    let allBooks = await getAllBooks();
     expect(allBooks).toHaveLength(9);
   })
 })
